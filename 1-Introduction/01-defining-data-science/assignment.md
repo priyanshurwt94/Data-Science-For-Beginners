@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Deploying AI-powered virtual tutors to provide personalized, one-on-one academic support to students when human teachers are unavailable. | Student performance metrics, Behavioral telemetry, Support usage, Error profiling, Cheating or not. | Stored in secure school database (~5-10 GB). | Identifying struggling students, Adjusting lesson difficulty, Focusing on those students who are very poor category. |
+| Vaccination | Optimizing vaccine distribution logistics to ensure high-risk areas get doses first and tracking public vaccine hesitancy. | Daily case rates by zip code, vaccine shipment logs, temperature tracking data, public sentiment metrics. | Encrypted cloud database (~10-50 GB due to real-time daily tracking updates). | Redirecting supply to infection spikes, launching public awareness campaigns in high-hesitancy areas. |
+| Productivity | Identifying team burnout and workflow bottlenecks in a remote environment without invading employee privacy. | Project completion tracking, active hours logged, task response times, anonymized weekly workload surveys. | Internal company database (~500 MB - 1 GB annually for standard enterprise). | Rebalancing heavy workloads to prevent burnout, streamlining slow operational steps in a project. |
 
 ## Rubric
 
