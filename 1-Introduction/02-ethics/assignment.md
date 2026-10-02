@@ -17,6 +17,18 @@ In this assignment, you'll write your own case study reflecting a data ethics ch
 ## Rubric
 
 Exemplary | Adequate | Needs Improvement
-**Informed Consent & Privacy:** Apps collect precise GPS data under the guise of functionality but secretly sell it to third-party data brokers without clear user consent. | **X-Mode & Leaky Apps:** The FTC penalized data broker X-Mode(Outlogic) for secretly gathering precise location tracking data from everyday applications-including weather and prayer apps- and selling it to defense contractors. | **FTC Ruling:** [FTC Bans X-Mode From Selling Sensitive Location Data](https://ftc.gov)
-**BBC News:** [Apps Used to Spy on Users](https://bbc.com) |
+-- | -- | -- |
 One or more data ethics challenges are identified. <br/> <br/> The case study clearly describes a real-world incident reflecting that challenge, and highlights undesirable consequences or harms it caused. <br/><br/> There is at least one linked resource to prove this occurred. | One data ethics challenge is identified. <br/><br/> At least one relevant harm or consequence is discussed briefly. <br/><br/> However discussion is limited or lacks proof of real-world occurence. | A data challenge is identified. <br/><br/> However the description or resources do not adequately reflect the challenge or prove it's real-world occurence. |
+# Data Ethics Case Study: Location Privacy
+
+### 1. Data Ethics Challenge (Instruction Block 1)
+* **Informed Consent & Privacy:** Apps collect precise GPS data under the guise of functionality but secretly sell it to third-party data brokers without clear user consent.
+
+### 2. Real-World Example & Harms (Instruction Block 2)
+* **X-Mode & Leaky Apps:** The FTC penalized data broker **X-Mode (Outlogic)** for secretly gathering precise location tracking data from everyday applications—including weather and prayer apps—and selling it to defense contractors.
+* **Potential Harms:** Tracking daily routes easily exposes an individual's home address and workplace, compromising personal safety and anonymity.
+
+### 3. Related Resources (Instruction Block 3)
+* **FTC Ruling:** [FTC Bans X-Mode From Selling Sensitive Location Data](https://ftc.gov)
+* **BBC News:** [Apps Used to Spy on Users](https://bbc.com)
+*
